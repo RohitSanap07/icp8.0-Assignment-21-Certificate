@@ -58,3 +58,165 @@
         height: 55px;
         width: 120px;
     }
+
+    @media screen and  (max-width: 600px){
+    
+        .img{
+            margin-top: 10px;
+            height: auto;
+            width: 200px;
+            border-radius: 10px;
+            padding: 50px 0px;
+            align-items: center;
+            }
+    
+            .Certificate-body-details{
+                padding:1% 17%;
+                font-size: 20px;
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+            
+            }
+            .display-center{
+                display: flex;
+                justify-content: start;
+                padding: 8px;
+                
+            }
+
+            .text-stamp{
+                display: flex;
+                justify-content: end;
+                flex-wrap: wrap;
+               margin-right:30px;
+            
+                
+            }
+            .stamp{
+                height: 50px;
+                width: 110px;
+            }
+    
+    }
+
+
+    @media screen and (min-width: 601px) and (max-width: 768px){
+        .img{
+            margin-top: 10px;
+            height: auto;
+            width: 200px;
+            border-radius: 10px;
+            padding: 50px 0px;
+            align-items: center;
+            }
+    
+            .Certificate-body-details{
+                padding:1% 17%;
+                font-size: 20px;
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+            
+            }
+            .display-center{
+                display: flex;
+                justify-content: start;
+                padding: 8px;
+                
+            }
+
+            .text-stamp{
+                display: flex;
+                justify-content: end;
+                flex-wrap: wrap;
+               margin-right:30px;
+            
+                
+            }
+            .stamp{
+                height: 50px;
+                width: 110px;
+            }
+    
+    }
+
+    @media screen and (min-width: 769px) and (max-width: 992px){
+
+        .img{
+            margin-top: 10px;
+            height: auto;
+            width: 200px;
+            border-radius: 10px;
+            padding: 50px 0px;
+            align-items: center;
+            }
+    
+            .Certificate-body-details{
+                padding:1% 17%;
+                font-size: 20px;
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+            
+            }
+            .display-center{
+                display: flex;
+                justify-content: start;
+                padding: 8px;
+                
+            }
+
+            .text-stamp{
+                display: flex;
+                justify-content: end;
+                flex-wrap: wrap;
+               margin-right:25px;
+            
+                
+            }
+            .stamp{
+                height: 45px;
+                width: 105px;
+            }
+        }
+
+        @media screen and (min-width: 993px) and (max-width: 1200px){
+
+            .img{
+                margin-top: 10px;
+                height: auto;
+                width: 200px;
+                border-radius: 10px;
+                padding: 50px 0px;
+               
+                }
+        
+                .Certificate-body-details{
+                    padding:1% 17%;
+                    font-size: 20px;
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-between;
+                
+                }
+                .display-center{
+                    display: flex;
+                    justify-content: start;
+                    padding: 8px;
+                    
+                }
+    
+                .text-stamp{
+                    display: flex;
+                    justify-content: end;
+                    flex-wrap: wrap;
+                   margin-right:30px;
+                
+                    
+                }
+                .stamp{
+                    height: 50px;
+                    width: 110px;
+                }
+            }
